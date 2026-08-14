@@ -16,6 +16,10 @@ Both projects are MIT-licensed and have no runtime AI or telemetry.
 
 Each linked page states its complete scope, exclusions, evidence boundary, and intake path.
 
+## Public-scope questions
+
+For a question about whether one of these public-only scopes fits, email [jakespringfield1@gmail.com](mailto:jakespringfield1@gmail.com?subject=Public%20scope%20question). Do not send credentials, customer or personal data, private-repository details, or security findings. Email creates no order or payment obligation; work begins only after written scope and payment terms.
+
 ## Operating disclosure
 
 Jake Springfield is a public-facing business alias for Springfield Systems. OpenAI Codex materially assists development, public-source research, evidence organization, and drafting. No separate personal human review is promised. Springfield Systems is not represented as incorporated and is independent of OpenAI and every repository or site reviewed.
