@@ -11,7 +11,7 @@ Both projects are MIT-licensed and have no runtime AI or telemetry.
 
 ## Managed services
 
-- [Public Bug Evidence Decision Brief](https://moltgate.com/jakespringfield/public-bug-evidence-decision-brief/) is a $29 source-linked decision brief for one public, non-security GitHub bug. [Check eligibility free in your browser](https://springfield-systems.jakespringfield1.workers.dev/public-bug-decision-brief/preflight); it asks six local questions and submits nothing.
+- [Public Bug Evidence Decision Brief](https://springfield-systems.jakespringfield1.workers.dev/public-bug-decision-brief/preflight) is a $29 source-linked decision brief for one public, non-security GitHub bug. The six-question browser-only check submits nothing; only an eligible result reveals the verified Jake-only checkout and separate public scope-review option.
 - [Public Storefront QA pilot](https://springfield-systems.jakespringfield1.workers.dev/public-storefront-qa) is a $250 fixed pilot covering up to 20 frozen checks across as many as six public HTML URLs on one buyer-authorized domain, with a baseline and one same-scope rerun after at least 72 real hours.
 
 Each linked page states its complete scope, exclusions, evidence boundary, and intake path.
