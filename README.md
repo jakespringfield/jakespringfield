@@ -2,6 +2,8 @@
 
 I build bounded, public-evidence tools and services under Springfield Systems.
 
+**Official paid intake:** Start only at the [six-question eligibility preflight](https://springfield-systems.jakespringfield1.workers.dev/public-bug-decision-brief/preflight). Do not use a direct Moltgate profile or offer URL.
+
 ## Free tools
 
 - [Public Issue Evidence Capsule](https://github.com/jakespringfield/public-issue-evidence-capsule) is a deterministic GitHub Action that captures a factual snapshot of one public issue, its activity, linked public pull-request states, and explicit API coverage gaps.
